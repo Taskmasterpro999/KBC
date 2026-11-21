@@ -1,3 +1,4 @@
+# KBC static prototype deployment
 name: Deploy KBC to GitHub Pages
 
 on:
